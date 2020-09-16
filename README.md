@@ -3,7 +3,7 @@
 ### Tools 
 Computer, text editor, notepad.
 
-#### Prerequisites
+### Prerequisites
 None, very basic intro activity to learn HTML Syntax
 
 ### Description
